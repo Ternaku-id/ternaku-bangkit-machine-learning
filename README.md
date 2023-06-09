@@ -11,7 +11,7 @@ We get information from various source such as:
 - [Penyakit Pinkeye Pada Sapi](https://bbibsingosari.ditjenpkh.pertanian.go.id/penyakit-pinkeye-pada-sapi/#:~:text=Pinkeye%20diakibatkan%20oleh%20bakteri%20Moraxella,bakteri%20ini%20mudah%20menyerang%20mata.)
 - [PENGOBATAN DAN PENCEGAHAN PENYAKIT PINK EYE PADA TERNAK](http://cybex.pertanian.go.id/mobile/artikel/95335/PENGOBATAN-DAN-PENCEGAHAN-PENYAKIT-PINK-EYE-PADA-TERNAK/)
 
-## 2. Search dataset for diffrent type of eyes
+## 2. Search dataset for different type of eyes
 We collect images of pink eye and healthy eye from cow eye and goat eye
 ### Dataset Resource
 We get dataset from various source such as:
