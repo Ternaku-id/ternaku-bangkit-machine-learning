@@ -27,5 +27,5 @@ We use image augmentation to expanding the training data with diverse variations
 ## 5. Create models and training data
 For model architecture, we use transfer learning using MobilenetV2.
 The Architecture:
-![MobileNetV2](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thepythoncode.com%2Farticle%2Fuse-transfer-learning-for-image-flower-classification-keras-python&psig=AOvVaw3rpH8r-GM5fMSPW53yzHif&ust=1686382280469000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDihdjVtf8CFQAAAAAdAAAAABAE)
+![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
 ## 6. evaluate the model that has been obtained and re-create the model
