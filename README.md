@@ -28,6 +28,11 @@ We use image augmentation by applying various transformations to the original im
 For model architecture, resize the image into 180x180 and we use transfer learning using MobilenetV2.
 The Architecture of MobileNetV2:
 ![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
-## 6. Test the model
+## 6. Evaluate the model
+![cow accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_accuracy_and_loss.png)
+![cow distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_distribution_dataset.png)
+![goat accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_accuracy_and_loss.png)
+![goat distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_distribution_dataset.png)
+<!-- ## 7. Test the model
 We then test our model and here is the result:
-[Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/train/testing.ipynb)
+[Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/train/testing.ipynb) -->
