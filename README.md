@@ -23,7 +23,7 @@ after collecting the datasets, we do preparation data by cleaning the images we 
 #### Link to dataset
 - [DATASET ML](https://drive.google.com/drive/folders/1_FB1UIOc-UrCFNujgb_W0W27A0NcOlNz?usp=sharing)
 ## 4. Preprocessing Data
-We use image augmentation to expanding the training data with diverse variations and to reduce overfitting. And we resize the image into 640x640 because the image we found is not in a same size.
+We use image augmentation by applying various transformations to the original images, to creates additional training samples with different variations. Image augmentation is useful to expanding the training data with diverse variations and to reduce overfitting.
 ## 5. Create models and training data
 For model architecture, resize the image into 224x224 and we use transfer learning using MobilenetV2.
 The Architecture of MobileNetV2:
