@@ -24,9 +24,13 @@ after collecting the datasets, we do preparation data by cleaning the images we 
 - [DATASET ML](https://drive.google.com/drive/folders/1_FB1UIOc-UrCFNujgb_W0W27A0NcOlNz?usp=sharing)
 ## 4. Preprocessing Data
 We use image augmentation by applying various transformations to the original images, to creates additional training samples with different variations. Image augmentation is useful to expanding the training data with diverse variations and to reduce overfitting.
+- [Cow Preprocessing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/cow_preprocessing.ipynb)
+- [Goat Preprocessing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_preprocessing.ipynb)
 ## 5. Create models and training data
 For model architecture, resize the image into 180x180 and we use transfer learning using MobilenetV2.
 The Architecture of MobileNetV2:
+- [Cow Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/cow_model.ipynb)
+- [Goat Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_model.ipynb)
 ![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
 ## 6. Evaluate the model
 ![cow accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_accuracy_and_loss.png)
