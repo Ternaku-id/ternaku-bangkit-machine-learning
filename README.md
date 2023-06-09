@@ -25,7 +25,7 @@ after collecting the datasets, we do preparation data by cleaning the images we 
 ## 4. Preprocessing Data
 We use image augmentation by applying various transformations to the original images, to creates additional training samples with different variations. Image augmentation is useful to expanding the training data with diverse variations and to reduce overfitting.
 ## 5. Create models and training data
-For model architecture, resize the image into 224x224 and we use transfer learning using MobilenetV2.
+For model architecture, resize the image into 180x180 and we use transfer learning using MobilenetV2.
 The Architecture of MobileNetV2:
 ![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
 ## 6. Test the model
