@@ -28,3 +28,6 @@ We use image augmentation by applying various transformations to the original im
 For model architecture, resize the image into 224x224 and we use transfer learning using MobilenetV2.
 The Architecture of MobileNetV2:
 ![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
+## 6. Test the model
+We then test our model and here is the result:
+[Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/train/testing.ipynb)
