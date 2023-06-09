@@ -33,10 +33,14 @@ The Architecture of MobileNetV2:
 - [Goat Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_model.ipynb)
 ![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
 ## 6. Evaluate the model
-![cow accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_accuracy_and_loss.png)
-![cow distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_distribution_dataset.png)
-![goat accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_accuracy_and_loss.png)
-![goat distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_distribution_dataset.png)
+Cow distribution dataset
+- ![cow distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_distribution_dataset.png)
+Cow model accuracy and loss
+- ![cow accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_accuracy_and_loss.png)
+Goat model accuracy and loss
+- ![goat distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_distribution_dataset.png)
+Goat model accuracy and loss
+- ![goat accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_accuracy_and_loss.png)
 <!-- ## 7. Test the model
 We then test our model and here is the result:
 [Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/train/testing.ipynb) -->
