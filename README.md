@@ -17,15 +17,17 @@ We collect images of pink eye and healthy eye from cow eye and goat eye
 We get dataset from various source such as:
 - [Penyakit Mata Sapi Computer Vision Project](https://universe.roboflow.com/fachri/penyakit-mata-sapi)
 - [Google Images](https://images.google.com/)
-- 
+
 ## 3. Preparation Data
 after collecting the datasets, we do preparation data by cleaning the images we found not suitable for our model, such as deleting and crop image that still can be use.
 #### Link to dataset
 - [DATASET ML](https://drive.google.com/drive/folders/1_FB1UIOc-UrCFNujgb_W0W27A0NcOlNz?usp=sharing)
+
 ## 4. Preprocessing Data
 We use image augmentation by applying various transformations to the original images to creates additional training samples with different variations. Image augmentation is useful to expanding the training data with diverse variations and to reduce overfitting.
 - [Cow Preprocessing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/cow_preprocessing.ipynb)
 - [Goat Preprocessing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_preprocessing.ipynb)
+
 ## 5. Create models and training data
 For model architecture, resize the image into 180x180 and we use transfer learning using MobilenetV2.
 The Architecture of MobileNetV2:
@@ -33,6 +35,7 @@ The Architecture of MobileNetV2:
 
 - [Cow Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/cow_model.ipynb)
 - [Goat Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_model.ipynb)
+
 ## 6. Evaluate the model
 Cow distribution dataset
 - ![cow distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_distribution_dataset.png)
