@@ -1,9 +1,9 @@
 # Ternaku-Bangkit-Machine-Learning
 # This contains what Machine Learning's team do
-the job of Machine learning Team is to learn and make machine learning model of pink eye and healthy eye of goat and cow. We make 2 model for this App, 1 is for cow that contain 2 class, pinkeye and healthy. and 1 is for goat that also contain 2 class, pinkeye and healthy.
+The job of Machine learning Team is to learn and make machine learning model of pink eye and healthy eye of goat and cow. We make 2 model for this App, 1 model is for cow that contain 2 class, pinkeye and healthy. And 1 model is for goat that also contain 2 class, pinkeye and healthy.
 
 ## 1. Search information source related to the project
-we have to read journal or other resource to gain more knowledge about the disease.
+We have to read journal or other resource from internet to gain more knowledge about the pinkeye disease that affect cattles.
 ### Information Resource
 We get information from various source such as:
 - [Mengenal Penyakit Pink Eye (Mata Merah) Pada Ternak Kambing & Domba](https://disnakeswan.lebakkab.go.id/mengenal-penyakit-pink-eye-mata-merah-pada-ternak-kambing-domba/)
@@ -17,13 +17,13 @@ We collect images of pink eye and healthy eye from cow eye and goat eye
 We get dataset from various source such as:
 - [Penyakit Mata Sapi Computer Vision Project](https://universe.roboflow.com/fachri/penyakit-mata-sapi)
 - [Google Images](https://images.google.com/)
-
+- 
 ## 3. Preparation Data
-after collecting the datasets, we do preparation data by cleaning the images we found not suitable for our model.
+after collecting the datasets, we do preparation data by cleaning the images we found not suitable for our model, such as deleting and crop image that still can be use.
 #### Link to dataset
 - [DATASET ML](https://drive.google.com/drive/folders/1_FB1UIOc-UrCFNujgb_W0W27A0NcOlNz?usp=sharing)
 ## 4. Preprocessing Data
-We use image augmentation by applying various transformations to the original images, to creates additional training samples with different variations. Image augmentation is useful to expanding the training data with diverse variations and to reduce overfitting.
+We use image augmentation by applying various transformations to the original images to creates additional training samples with different variations. Image augmentation is useful to expanding the training data with diverse variations and to reduce overfitting.
 - [Cow Preprocessing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/cow_preprocessing.ipynb)
 - [Goat Preprocessing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_preprocessing.ipynb)
 ## 5. Create models and training data
