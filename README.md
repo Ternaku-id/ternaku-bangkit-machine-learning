@@ -31,7 +31,7 @@ For model architecture, resize the image into 180x180 and we use transfer learni
 The Architecture of MobileNetV2:
 - [Cow Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/cow_model.ipynb)
 - [Goat Model](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/goat_model.ipynb)
-![MobileNetV2](https://www.thepythoncode.com/media/articles/use-transfer-learning-for-image-flower-classification-keras-python/mobilenet-mo_hGSqcA7.png)
+![MobileNetV2](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/arsitektur.png)
 ## 6. Evaluate the model
 Cow distribution dataset
 - ![cow distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/cow_distribution_dataset.png)
