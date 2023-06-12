@@ -19,7 +19,7 @@ We get dataset from various source such as:
 - [Google Images](https://images.google.com/)
 
 ## 3. Preparation Data
-after collecting the datasets, we do preparation data by cleaning the images we found not suitable for our model, such as deleting and crop image that still can be use.
+After collecting the datasets, we do preparation data by cleaning the images we found not suitable for our model, such as deleting and crop image that still can be use.
 #### Link to dataset
 - [DATASET ML](https://drive.google.com/drive/folders/1_FB1UIOc-UrCFNujgb_W0W27A0NcOlNz?usp=sharing)
 
