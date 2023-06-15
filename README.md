@@ -45,7 +45,7 @@ Goat model accuracy and loss
 - ![goat distribution dataset](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_distribution_dataset.png)
 Goat model accuracy and loss
 - ![goat accuracy and loss](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/graph/goat_accuracy_and_loss.png)
-<!-- ## 7. Test the model
-We then test our model and here is the result:
-[Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/testing.ipynb) -->
-<!-- nomor 7 jangan dibuka karena itu bukan pake model di apl wkwk -->
+
+## 7. Test the model
+This is the example ipynb of how we test the images to classify the eye using the model we created before and here is the result:
+[Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/testing.ipynb)
