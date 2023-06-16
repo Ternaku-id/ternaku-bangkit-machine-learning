@@ -49,3 +49,6 @@ Goat model accuracy and loss
 ## 7. Test the model
 This is the example ipynb of how we test the images to classify the eye using the model we created before and here is the result:
 [Testing](https://github.com/Ternaku-id/ternaku-bangkit-machine-learning/blob/main/testing.ipynb)
+
+## Disclaimer
+-   This project is created for educational purpose as the requirement to graduate from [**_Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka_**.](https://www.linkedin.com/company/bangkit-academy/mycompany/)
